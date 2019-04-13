@@ -1,5 +1,5 @@
 # Network simulation or emulation?
-**Source**: https://www.networkworld.com/article/3227076/network-simulation-or-emulation.html
+**Source**: https://www.networkworld.com/article/3227076/network-simulation-or-emulation.html (accessed 2019-04-13)
 
 ## Original abstract
 > In regard to network testing, the terms emulation and simulation are often used interchangeably. In most cases, either term will generally get the point across, but there’s a big difference between a network emulator and network simulator, both practically and semantically.
